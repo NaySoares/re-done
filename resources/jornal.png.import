@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://vew2rptc4djd"
-path="res://.godot/imported/banana.png-add69c7e9dd0073cd691b3a6b9b03acd.ctex"
+uid="uid://jp4gexlty31q"
+path="res://.godot/imported/jornal.png-57c0b8f7da3a8b83f2f4fe274c1c8db4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/banana.png"
-dest_files=["res://.godot/imported/banana.png-add69c7e9dd0073cd691b3a6b9b03acd.ctex"]
+source_file="res://resources/jornal.png"
+dest_files=["res://.godot/imported/jornal.png-57c0b8f7da3a8b83f2f4fe274c1c8db4.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bvwnrt4dmdyt5"
-path="res://.godot/imported/lata de lixo amarela.png-5bb658a19ef06d03e48c3243044046e4.ctex"
+uid="uid://b7oin50bgju24"
+path="res://.godot/imported/lata de refri.png-866e5c246928d4c2bfa62e3fadbf2b6c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/lata de lixo amarela.png"
-dest_files=["res://.godot/imported/lata de lixo amarela.png-5bb658a19ef06d03e48c3243044046e4.ctex"]
+source_file="res://resources/lata de refri.png"
+dest_files=["res://.godot/imported/lata de refri.png-866e5c246928d4c2bfa62e3fadbf2b6c.ctex"]
 
 [params]
 

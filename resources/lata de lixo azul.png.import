@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mpbf053m70nh"
-path="res://.godot/imported/melancia.png-631682ead886891629c315ff7e24c401.ctex"
+uid="uid://bs8awjjptpsu6"
+path="res://.godot/imported/lata de lixo azul.png-eea9a7b1395230e73b6661401b254ae0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/melancia.png"
-dest_files=["res://.godot/imported/melancia.png-631682ead886891629c315ff7e24c401.ctex"]
+source_file="res://resources/lata de lixo azul.png"
+dest_files=["res://.godot/imported/lata de lixo azul.png-eea9a7b1395230e73b6661401b254ae0.ctex"]
 
 [params]
 

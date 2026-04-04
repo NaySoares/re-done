@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bs8awjjptpsu6"
-path="res://.godot/imported/lata de lixo azul.png-1a0d156fdb520e2f2f201ebcd9f9fe9b.ctex"
+uid="uid://ckkvclcysbqsn"
+path="res://.godot/imported/papel 1.png-edd30632ad7d791f52b552886be040ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/lata de lixo azul.png"
-dest_files=["res://.godot/imported/lata de lixo azul.png-1a0d156fdb520e2f2f201ebcd9f9fe9b.ctex"]
+source_file="res://resources/papel 1.png"
+dest_files=["res://.godot/imported/papel 1.png-edd30632ad7d791f52b552886be040ad.ctex"]
 
 [params]
 

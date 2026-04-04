@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dk0v7bqujf77e"
-path="res://.godot/imported/maçã.png-6cfee3c4dfdb020e3319894635581a64.ctex"
+uid="uid://cno67s874f47s"
+path="res://.godot/imported/garrafa.png-e565d085e5fff1718702e910c3d6f506.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/maçã.png"
-dest_files=["res://.godot/imported/maçã.png-6cfee3c4dfdb020e3319894635581a64.ctex"]
+source_file="res://resources/garrafa.png"
+dest_files=["res://.godot/imported/garrafa.png-e565d085e5fff1718702e910c3d6f506.ctex"]
 
 [params]
 

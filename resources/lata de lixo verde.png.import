@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cno67s874f47s"
-path="res://.godot/imported/garrafa.png-5dc639f6973ea5b5aa89cdd605b7b5ba.ctex"
+uid="uid://c0dc3bhscrlij"
+path="res://.godot/imported/lata de lixo verde.png-eb66ee2fa52fae061569db7cb5531eb4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/garrafa.png"
-dest_files=["res://.godot/imported/garrafa.png-5dc639f6973ea5b5aa89cdd605b7b5ba.ctex"]
+source_file="res://resources/lata de lixo verde.png"
+dest_files=["res://.godot/imported/lata de lixo verde.png-eb66ee2fa52fae061569db7cb5531eb4.ctex"]
 
 [params]
 

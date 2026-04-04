@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c0dc3bhscrlij"
-path="res://.godot/imported/lata de lixo verde.png-dedb1d87631f5108acb0bcf980ee2ae4.ctex"
+uid="uid://ccse3pl2pvces"
+path="res://.godot/imported/copo de plastico.png-cbf0bf691b23e478869a2dd46f270e85.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/lata de lixo verde.png"
-dest_files=["res://.godot/imported/lata de lixo verde.png-dedb1d87631f5108acb0bcf980ee2ae4.ctex"]
+source_file="res://resources/copo de plastico.png"
+dest_files=["res://.godot/imported/copo de plastico.png-cbf0bf691b23e478869a2dd46f270e85.ctex"]
 
 [params]
 

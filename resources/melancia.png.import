@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cj2rc3qnv3kvk"
-path="res://.godot/imported/papel 2.png-5515f955b3b288512dce202835dc3837.ctex"
+uid="uid://mpbf053m70nh"
+path="res://.godot/imported/melancia.png-62fcbfbc4bf2a9f0b2d18a55f0313b47.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/papel 2.png"
-dest_files=["res://.godot/imported/papel 2.png-5515f955b3b288512dce202835dc3837.ctex"]
+source_file="res://resources/melancia.png"
+dest_files=["res://.godot/imported/melancia.png-62fcbfbc4bf2a9f0b2d18a55f0313b47.ctex"]
 
 [params]
 

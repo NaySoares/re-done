@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://47kwbm3qjhp1"
-path="res://.godot/imported/sacola 1.png-cc0dfaeb08446002b99618db34bc3f7e.ctex"
+uid="uid://ddfw0yvcqeey1"
+path="res://.godot/imported/lata de lixo vermelha.png-4ad8e2a68ad560a05a9cfe18a83cfd00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/sacola 1.png"
-dest_files=["res://.godot/imported/sacola 1.png-cc0dfaeb08446002b99618db34bc3f7e.ctex"]
+source_file="res://resources/lata de lixo vermelha.png"
+dest_files=["res://.godot/imported/lata de lixo vermelha.png-4ad8e2a68ad560a05a9cfe18a83cfd00.ctex"]
 
 [params]
 

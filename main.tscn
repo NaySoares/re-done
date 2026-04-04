@@ -1,7 +1,7 @@
 [gd_scene format=4 uid="uid://b52rswl280jlb"]
 
 [ext_resource type="Texture2D" uid="uid://cx25vafytvfeq" path="res://tilemaps/tilemap_packed.png" id="1_ig7tw"]
-[ext_resource type="Texture2D" uid="uid://b65c3j7r1tb1d" path="res://resourses/cenario.png" id="2_0xm2m"]
+[ext_resource type="Texture2D" uid="uid://b65c3j7r1tb1d" path="res://resources/cenario.png" id="2_0xm2m"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_0xm2m"]
 resource_name = "ground"

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://td5ubxchbuus"
-path="res://.godot/imported/garrafa 2.png-68e5753cdc6a661245a16d1bfcfd0a3b.ctex"
+uid="uid://b65c3j7r1tb1d"
+path="res://.godot/imported/cenario.png-4c3658d68416644585e3b670df624bd4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resourses/garrafa 2.png"
-dest_files=["res://.godot/imported/garrafa 2.png-68e5753cdc6a661245a16d1bfcfd0a3b.ctex"]
+source_file="res://resources/cenario.png"
+dest_files=["res://.godot/imported/cenario.png-4c3658d68416644585e3b670df624bd4.ctex"]
 
 [params]
 
