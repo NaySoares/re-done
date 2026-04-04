@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://coplpp2uw2x72"]
+
+[ext_resource type="Script" uid="uid://cdxr0orxqcjkw" path="res://characters/base_character.gd" id="1_f78fl"]
+
+[node name="BaseCharacter" type="CharacterBody2D" unique_id=854929572 node_paths=PackedStringArray("_animation")]
+script = ExtResource("1_f78fl")
+_animation = NodePath("Animation")
+
+[node name="Texture" type="Sprite2D" parent="." unique_id=1344711035]
+
+[node name="Collision" type="CollisionShape2D" parent="." unique_id=147409758]
+
+[node name="Animation" type="AnimationPlayer" parent="." unique_id=26183902]
