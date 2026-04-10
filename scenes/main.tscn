@@ -2,6 +2,10 @@
 
 [ext_resource type="Texture2D" uid="uid://cx25vafytvfeq" path="res://tilemaps/tilemap_packed.png" id="1_ig7tw"]
 [ext_resource type="Texture2D" uid="uid://b65c3j7r1tb1d" path="res://resources/cenario.png" id="2_0xm2m"]
+[ext_resource type="Texture2D" uid="uid://bs8awjjptpsu6" path="res://resources/lata de lixo azul.png" id="3_tefeu"]
+[ext_resource type="Texture2D" uid="uid://c0dc3bhscrlij" path="res://resources/lata de lixo verde.png" id="4_o6xl0"]
+[ext_resource type="Texture2D" uid="uid://ddfw0yvcqeey1" path="res://resources/lata de lixo vermelha.png" id="5_tipki"]
+[ext_resource type="Texture2D" uid="uid://bvwnrt4dmdyt5" path="res://resources/lata de lixo amarela.png" id="6_85g3d"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ig7tw"]
 texture = ExtResource("1_ig7tw")
@@ -496,9 +500,45 @@ texture = ExtResource("1_ig7tw")
 25:17/0 = 0
 26:17/0 = 0
 
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_choun"]
+texture = ExtResource("3_tefeu")
+0:0/0 = 0
+1:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ya4ey"]
+texture = ExtResource("4_o6xl0")
+0:0/0 = 0
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+1:0/0 = 0
+1:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+0:1/0 = 0
+0:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+1:1/0 = 0
+1:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_eb6dy"]
+texture = ExtResource("5_tipki")
+0:0/0 = 0
+1:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_trceg"]
+texture = ExtResource("6_85g3d")
+0:0/0 = 0
+1:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+
 [sub_resource type="TileSet" id="TileSet_0xm2m"]
 physics_layer_0/collision_layer = 1
 sources/0 = SubResource("TileSetAtlasSource_ig7tw")
+sources/1 = SubResource("TileSetAtlasSource_choun")
+sources/2 = SubResource("TileSetAtlasSource_ya4ey")
+sources/3 = SubResource("TileSetAtlasSource_eb6dy")
+sources/4 = SubResource("TileSetAtlasSource_trceg")
 
 [node name="Main" type="Node2D" unique_id=1328390479]
 
@@ -508,6 +548,6 @@ offset_bottom = 180.0
 mouse_filter = 2
 texture = ExtResource("2_0xm2m")
 
-[node name="interable" type="TileMapLayer" parent="." unique_id=776791443]
-tile_map_data = PackedByteArray(0, 0, 3, 0, 1, 0, 0, 0, 10, 0, 9, 0, 0, 0, 5, 0, 1, 0, 0, 0, 9, 0, 9, 0, 0, 0, 4, 0, 4, 0, 0, 0, 10, 0, 10, 0, 0, 0)
+[node name="interable" type="TileMapLayer" parent="." unique_id=776791443 groups=["lixeira"]]
+tile_map_data = PackedByteArray(0, 0, 2, 0, 10, 0, 0, 0, 10, 0, 10, 0, 0, 0, 5, 0, 10, 0, 0, 0, 10, 0, 9, 0, 0, 0, 8, 0, 10, 0, 0, 0, 9, 0, 9, 0, 0, 0)
 tile_set = SubResource("TileSet_0xm2m")

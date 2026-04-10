@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://d76igmiy3dpd"]
+
+[ext_resource type="Script" uid="uid://6er3hy0kuna3" path="res://scripts/base_npc.gd" id="1_sdxn2"]
+
+[node name="base_npc" type="CharacterBody2D" unique_id=833226921]
+script = ExtResource("1_sdxn2")
+
+[node name="Texture" type="Sprite2D" parent="." unique_id=1089812012]
+
+[node name="Animation" type="AnimationPlayer" parent="." unique_id=796982549]

@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://coplpp2uw2x72"]
+
+[ext_resource type="Script" uid="uid://bbgdb5q0mo8t1" path="res://scripts/player.gd" id="1_880sd"]
+
+[node name="BaseCharacter" type="CharacterBody2D" unique_id=854929572]
+script = ExtResource("1_880sd")
+
+[node name="Texture" type="Sprite2D" parent="." unique_id=1344711035]
+
+[node name="Collision" type="CollisionShape2D" parent="." unique_id=147409758]
+
+[node name="Animation" type="AnimationPlayer" parent="." unique_id=26183902]
+
+[node name="PickupArea" type="Area2D" parent="." unique_id=852854348]
+collision_layer = 1
+collision_mask = 1
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="PickupArea" unique_id=1815862098]

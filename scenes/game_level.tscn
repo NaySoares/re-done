@@ -1,0 +1,34 @@
+[gd_scene format=3 uid="uid://crgvj3eg8t4ui"]
+
+[ext_resource type="PackedScene" uid="uid://b52rswl280jlb" path="res://scenes/main.tscn" id="1_df5pp"]
+[ext_resource type="PackedScene" uid="uid://brhubgqw2nkja" path="res://scenes/girl.tscn" id="2_ibsu8"]
+[ext_resource type="PackedScene" uid="uid://b2jgybghkbe5l" path="res://scenes/npc_01.tscn" id="4_3tmo4"]
+[ext_resource type="PackedScene" uid="uid://qd06bnp6aemd" path="res://scenes/npc_02.tscn" id="5_oslck"]
+[ext_resource type="PackedScene" uid="uid://ck3wbdx0lyj05" path="res://scenes/npc_03.tscn" id="6_1k01j"]
+
+[node name="GameLevel" type="Node2D" unique_id=176494209]
+position = Vector2(1, 0)
+
+[node name="Main" parent="." unique_id=1328390479 instance=ExtResource("1_df5pp")]
+position = Vector2(-1, 0)
+
+[node name="Girl" parent="." unique_id=854929572 instance=ExtResource("2_ibsu8")]
+position = Vector2(236, 28)
+
+[node name="base_npc" parent="." unique_id=833226921 instance=ExtResource("4_3tmo4")]
+position = Vector2(416, 132)
+
+[node name="base_npc2" parent="." unique_id=571537189 instance=ExtResource("5_oslck")]
+position = Vector2(343, 48)
+
+[node name="base_npc3" parent="." unique_id=1172133254 instance=ExtResource("6_1k01j")]
+position = Vector2(-56, 78)
+
+[node name="base_npc4" parent="." unique_id=326237264 instance=ExtResource("4_3tmo4")]
+position = Vector2(-23, 55)
+
+[node name="base_npc5" parent="." unique_id=911226902 instance=ExtResource("5_oslck")]
+position = Vector2(-106, 141)
+
+[node name="base_npc6" parent="." unique_id=1848709033 instance=ExtResource("6_1k01j")]
+position = Vector2(485, 122)
